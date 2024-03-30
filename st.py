@@ -3,4 +3,4 @@ import streamlit as st
 st.write('# Thaline a mulher da minha vida <3')
 
 #st.page_link('http://google.com/')
-st.image("IMG_0762.jpeg")
+st.image("j.jpeg")
